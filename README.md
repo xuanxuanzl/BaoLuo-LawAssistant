@@ -103,6 +103,13 @@ pnpm dev
 3. **[配置界面参数](src/locales/zh-CN.ts)**
 4. **[关于模型代码配置](service/main.py)**
 
+## 模型存在不足
+
+- 基准模型采用的性能不高，导致回复响应时间较长，下一步采用效率更高的基础模型。
+- 各服务功能的数据分布不均衡。
+- 各服务数据的重要指令设计不足。
+- 结合外部知识增强提升模型输出的准确度方面有欠缺。
+
 ## 项目贡献
 1. 感谢作者 [NCZkevin](https://github.com/NCZkevin/chatglm-web)
 2. 感谢作者 [Chanzhaoyu](https://github.com/Chanzhaoyu/chatgpt-web)和所有做过贡献的人
