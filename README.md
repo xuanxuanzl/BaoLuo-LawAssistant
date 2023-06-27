@@ -1,6 +1,6 @@
 # BaoLuo LawAssistant - 宝罗法律助理
 
-欢迎来到 [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant) 项目！这个项目旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
+欢迎来到 [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant) 项目！这个项目是基于“宝罗法律大模型”的应用，宝罗法律大模型旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
 
 DEMO请访问：[BaoLuo LawAssistant - 宝罗法律助理](https://baoluo.dahole.com)
 
@@ -11,7 +11,7 @@ DEMO请访问：[BaoLuo LawAssistant - 宝罗法律助理](https://baoluo.dahole
 - **[BaoLuo-LawAssistant-sftglm-6b](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
 
 
-该模型旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务。我们将分享在大模型基础上微调的经验和最佳实践，以帮助社区开发更多优秀的中文法律大模型，推动中文法律智能化的发展。
+该模型目标旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务。我们将分享在大模型基础上微调的经验和最佳实践，以帮助社区开发更多优秀的中文法律大模型，推动中文法律智能化的发展。
 
 ## 功能和特点
 
@@ -106,7 +106,6 @@ pnpm dev
 4. **[关于模型代码配置](service/main.py)**
 
 ## 模型存在不足
-
 - 基准模型采用的性能不高，导致回复响应时间较长，下一步采用效率更高的基础模型。
 - 各服务功能的数据分布不均衡。
 - 各服务数据的重要指令设计不足。
