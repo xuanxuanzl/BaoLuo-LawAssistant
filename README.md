@@ -6,9 +6,9 @@ DEMO请访问：[BaoLuo LawAssistant - 宝罗法律助理](https://baoluo.dahole
 
 ## 项目简介
 
- [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型，使用开源法律领域的数据进行精调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
-本项目模型版本。
-- **[BaoLuo-LawAssistant-sftglm-6b](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
+ [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型应用，使用开源法律领域的数据进行精调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
+
+本项目模型版本 - **[宝罗法律大模型](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
 
 
 该模型目标旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务。我们将分享在大模型基础上微调的经验和最佳实践，以帮助社区开发更多优秀的中文法律大模型，推动中文法律智能化的发展。
@@ -23,7 +23,7 @@ DEMO请访问：[BaoLuo LawAssistant - 宝罗法律助理](https://baoluo.dahole
 
 ## 环境搭建
 
-具体使用帮助或者疑问可查看如下两个开源项目：
+具体搭建帮助或者疑问可查看如下两个开源项目：
 1. [NCZkevin](https://github.com/NCZkevin/chatglm-web)
 
 2. [Chanzhaoyu](https://github.com/Chanzhaoyu/chatgpt-web)
