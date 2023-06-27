@@ -2,6 +2,8 @@
 
 欢迎来到 [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant) 项目！这个项目旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
 
+DEMO请访问：[BaoLuo LawAssistant - 宝罗法律助理](https://baoluo.dahole.com)
+
 ## 项目简介
 
  [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型，使用开源法律领域的数据进行精调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
