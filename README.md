@@ -1,4 +1,4 @@
-# BaoLuo LawAssistant - 宝罗法律助理V1.0
+# BaoLuo LawAssistant - 宝罗法律AI助理V1.0
 
 欢迎来到 [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant) 项目！这个项目是基于“[宝罗法律大模型](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)”的应用，宝罗法律大模型旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
 
