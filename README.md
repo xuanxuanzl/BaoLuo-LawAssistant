@@ -4,7 +4,7 @@
 
 ## 项目简介
 
- [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型，使用开源法律领域的约100万条数据进行微调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
+ [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型，使用开源法律领域的数据进行精调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
 本项目模型版本。
 - **[BaoLuo-LawAssistant-sftglm-6b](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
 
@@ -13,7 +13,7 @@
 
 ## 功能和特点
 
-- **专业法律知识**：BaoLuo LawAssistant 经过100W法律数据集上的微调，拥有较为丰富的中文法律知识和理解能力，能够回答相关法律问题。
+- **专业法律知识**：BaoLuo LawAssistant 经过法律数据集上的精调，拥有较为丰富的中文法律知识和理解能力，能够回答相关法律问题。
 
 - **法律咨询服务**：通过与 BaoLuo LawAssistant 进行交互，您可以提出具体的法律问题，模型将根据您的输入提供详细和准确的回答，为您提供法律咨询和支持。
 
