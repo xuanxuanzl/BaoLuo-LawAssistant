@@ -1,23 +1,23 @@
-# BaiZe LawAssistant - 白泽法律助理
+# BaoLuo LawAssistant - 宝罗法律助理
 
-欢迎来到 [BaiZe LawAssistant](https://github.com/xuanxuanzl/BaiZe-LawAssistant) 项目！这个项目旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
+欢迎来到 [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant) 项目！这个项目旨在提供专业的中文法律咨询服务，并分享在大模型在范司法行业领域微调的经验，以帮助社区开发更多优质的专用领域的大模型。
 
 ## 项目简介
 
-[BaiZe LawAssistant](https://github.com/xuanxuanzl/BaiZe-LawAssistant)  是一个中文法律大模型，使用开源法律领域的约100万条数据进行微调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
+ [BaoLuo LawAssistant](https://github.com/xuanxuanzl/BaoLuo-LawAssistant)  是一个中文法律大模型，使用开源法律领域的约100万条数据进行微调，能够提供法律法规检索、法律咨询、案情分析、罪名预测等服务。
 本项目模型版本。
-- **[BaiZe-LawAssistant-sftglm-6b](https://huggingface.co/xuanxuanzl/BaiZe-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
+- **[BaoLuo-LawAssistant-sftglm-6b](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)** 基于Encoder-Decoder结构基座模型做的P-Tuning微调
 
 
 该模型旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务。我们将分享在大模型基础上微调的经验和最佳实践，以帮助社区开发更多优秀的中文法律大模型，推动中文法律智能化的发展。
 
 ## 功能和特点
 
-- **专业法律知识**：BaiZe LawAssistant 经过100W法律数据集上的微调，拥有较为丰富的中文法律知识和理解能力，能够回答相关法律问题。
+- **专业法律知识**：BaoLuo LawAssistant 经过100W法律数据集上的微调，拥有较为丰富的中文法律知识和理解能力，能够回答相关法律问题。
 
-- **法律咨询服务**：通过与 BaiZe LawAssistant 进行交互，您可以提出具体的法律问题，模型将根据您的输入提供详细和准确的回答，为您提供法律咨询和支持。
+- **法律咨询服务**：通过与 BaoLuo LawAssistant 进行交互，您可以提出具体的法律问题，模型将根据您的输入提供详细和准确的回答，为您提供法律咨询和支持。
 
-- **法律案例及其他**：BaiZe LawAssistant 适用于部分法律相关领域的应用，包括法律法规检索包括但不限于民法典、合同法、劳动法、知识产权、民事诉讼、刑事法等，包括案情分析、罪名预测等应用。
+- **法律案例及其他**：BaoLuo LawAssistant 适用于部分法律相关领域的应用，包括法律法规检索包括但不限于民法典、合同法、劳动法、知识产权、民事诉讼、刑事法等，包括案情分析、罪名预测等应用。
 
 ## 环境搭建
 
@@ -95,7 +95,7 @@ pnpm dev
 
 ## 模型文件下载
 1. **P-Tuning基础模型**。首先下载[ChatGLM下载](https://github.com/THUDM/ChatGLM-6B)，如果要使用2必须下载此模型。
-2. **P-Tuning微调模型**。[BaiZe-LawAssistant-sftglm-6b模型及权重](https://huggingface.co/xuanxuanzl/BaiZe-LawAssistant-sftglm-6b)，此模型需要结合ChatGlm使用。
+2. **P-Tuning微调模型**。[BaoLuo-LawAssistant-sftglm-6b模型及权重](https://huggingface.co/xuanxuanzl/BaoLuo-LawAssistant-sftglm-6b)，此模型需要结合ChatGlm使用。
 
 ## 主要配置文件说明
 1. **[修改网站基本参数](prompts-zh.json)**
