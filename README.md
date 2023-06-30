@@ -122,3 +122,8 @@ pnpm dev
 ## License
 本项目中的代码采用MIT协议，涉及模型开源协议详见下载中说明。
 MIT © [LeiZi](./license)
+<p align="center">
+   <br>
+   <img src="leizi.png" width="20%"/>
+   <br>
+</p>
